@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST241: Pre-Modern Northeast Asia"
+course_description: "An introductory examination of the history of East Asia (China, Japan, Korea, and Vietnam) from 4000 BCE to the 18th century, with emphasis on their national identities and their interactions with the West."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Consolidation in China: The Qin and the Han** <span
 id="2"></span> 
 *The power of the Zhou dynasty began to falter in the third century

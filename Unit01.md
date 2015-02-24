@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST241: Pre-Modern Northeast Asia"
+course_description: "An introductory examination of the history of East Asia (China, Japan, Korea, and Vietnam) from 4000 BCE to the 18th century, with emphasis on their national identities and their interactions with the West."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Yellow River Civilizations** <span id="1"></span> 
 *The first Chinese civilizations emerged along the Yellow River—the
 second longest river in China—by the second millennium B.C.E.  Despite

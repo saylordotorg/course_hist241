@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST241: Pre-Modern Northeast Asia"
+course_description: "An introductory examination of the history of East Asia (China, Japan, Korea, and Vietnam) from 4000 BCE to the 18th century, with emphasis on their national identities and their interactions with the West."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: China's Golden Age: The Sui, Tang, and Song Dynasties** <span
 id="3"></span> 
 *After the fall of the Han dynasty in 589 C.E., China descended into

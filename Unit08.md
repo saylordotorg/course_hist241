@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST241: Pre-Modern Northeast Asia"
+course_description: "An introductory examination of the history of East Asia (China, Japan, Korea, and Vietnam) from 4000 BCE to the 18th century, with emphasis on their national identities and their interactions with the West."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Splendid Isolation: Ming China and Japan** <span
 id="8"></span> 
 *Squeezed between two “foreign” dynasties—the Yuan and the Qing—the Ming

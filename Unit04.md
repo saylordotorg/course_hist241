@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST241: Pre-Modern Northeast Asia"
+course_description: "An introductory examination of the history of East Asia (China, Japan, Korea, and Vietnam) from 4000 BCE to the 18th century, with emphasis on their national identities and their interactions with the West."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Japan** <span id="4"></span> 
 *Countries on China’s borders, including Japan, were deeply influenced
 by their powerful neighbor.  Not only did China attempt to expand its

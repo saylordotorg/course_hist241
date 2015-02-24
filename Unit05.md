@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST241: Pre-Modern Northeast Asia"
+course_description: "An introductory examination of the history of East Asia (China, Japan, Korea, and Vietnam) from 4000 BCE to the 18th century, with emphasis on their national identities and their interactions with the West."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Korea and Vietnam** <span id="5"></span> 
 *Similarly to Japan, the earliest developing societies in Korea and
 Vietnam also felt the direct influence of their Chinese neighbors.*  

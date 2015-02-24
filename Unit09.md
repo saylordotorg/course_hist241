@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST241: Pre-Modern Northeast Asia"
+course_description: "An introductory examination of the history of East Asia (China, Japan, Korea, and Vietnam) from 4000 BCE to the 18th century, with emphasis on their national identities and their interactions with the West."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: The Last Dynasty: Qing China** <span id="9"></span> 
 *The Qing Dynasty was founded when the Manchu—a Tungusic people from
 what is now northeast China—overthrew the Ming dynasty in 1644.  The
