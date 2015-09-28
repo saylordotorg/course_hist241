@@ -168,3 +168,4 @@ and 1.2.1 (a total of 2.75 hours) on Tuesday night; etc.
 - [Unit 8](https://legacy.saylor.org/hist241/Unit08/)
 - [Unit 9](https://legacy.saylor.org/hist241/Unit09/)
 - [Unit 10](https://legacy.saylor.org/hist241/Unit10/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST241/HIST241-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST241/HIST241-FinalExam-Answers.html)
