@@ -276,9 +276,9 @@ id="1.2.5"></span> 
     is on High”**
     Link: Carson-Newman College: Dr. Kip Wheeler’s [*Chinese Poetryand
     the Shih Ching/Book of
-    Songs*](http://www.saylor.org/site/wp-content/uploads/2012/02/HIST241_Unit1.2.5_Chinese-Poetry-and-the-Shih-Ching_Book-of-Songs.pdf)
+    Songs*](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST241_Unit1.2.5_Chinese-Poetry-and-the-Shih-Ching_Book-of-Songs.pdf)
     and version of the poem “[King Wen is on
-    High](http://www.saylor.org/site/wp-content/uploads/2012/02/HIST241_Unit1.2.5_King-Wên-is-on-High.pdf)”
+    High](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST241_Unit1.2.5_King-Wên-is-on-High.pdf)”
     (PDF)  
         
      Instructions: Written during the Zhou period and compiled sometime
