@@ -87,7 +87,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: Carson-Newman College: Dr. Kip Wheeler’s Confucius and
     Confucianism**
     Link: Carson-Newman College: Dr. Kip Wheeler’s *[Confucius and
-    Confucianism](http://www.saylor.org/site/wp-content/uploads/2012/02/HIST241_Unit2.1_Confucius-and-Confucianism.pdf)*
+    Confucianism](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST241_Unit2.1_Confucius-and-Confucianism.pdf)*
     (PDF)  
       
      Instructions: Please click on the link titled “Confucius and
@@ -189,7 +189,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: Carson-Newman College: Dr. Kip Wheeler’s The Tao and
     Taoism**
     Link: Carson-Newman College: Dr. Kip Wheeler’s *[The Tao and
-    Taoism](http://www.saylor.org/site/wp-content/uploads/2012/02/HIST241_Unit2.1.3_The-Tao-and-Taoism.pdf)*
+    Taoism](https://resources.saylor.org/archived/wp-content/uploads/2012/02/HIST241_Unit2.1.3_The-Tao-and-Taoism.pdf)*
     (PDF)  
       
      Instructions: Please read the page titled “The Tao and Taoism” to
@@ -499,7 +499,7 @@ id="2.4.1"></span> 
 id="2.4.2"></span> 
 -   **Lecture: The Saylor Foundation’s “Han Art and Material Culture”**
     Link: The Saylor Foundation’s [“Han Art and Material
-    Culture”](http://www.saylor.org/site/wp-content/uploads/2013/05/HIST241-2.4.2-Han-Art-and-Material-Culture-PPT-FINAL.pptx)
+    Culture”](https://resources.saylor.org/archived/wp-content/uploads/2013/05/HIST241-2.4.2-Han-Art-and-Material-Culture-PPT-FINAL.pptx)
     (PPT)  
                   
      Instructions: Examine the images in the PowerPoint file and read
@@ -520,7 +520,7 @@ id="2.4.2"></span> 
      Make sure to also read the notes below the slides. If you find
     reading these notes in the PowerPoint difficult, you may also view
     them
-    [here](http://www.saylor.org/site/wp-content/uploads/2013/06/HIST241_2.4.2_HanArtandMaterialCulture.pdf) (PDF).  
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2013/06/HIST241_2.4.2_HanArtandMaterialCulture.pdf) (PDF).  
       
      Reading the text, examining the images and answering the questions
     should take you approximately 30 minutes to complete.  
